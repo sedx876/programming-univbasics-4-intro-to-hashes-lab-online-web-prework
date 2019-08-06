@@ -29,4 +29,3 @@ def update_counting_hash(hash, key)
 else
   shipping_manifest["top hat"] = 1
 end
-end
